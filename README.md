@@ -19,8 +19,6 @@ nombre: Lázaro Pérez
 rol: Software Developer Engineer
 empresa: Netex Learning
 experiencia: 5+ años
-ubicación: España
-idiomas: ["Español (Nativo)", "Inglés (B1)"]
 enfoque: ["Backend Development", "Legacy Systems", "API Integration", "DevOps"]
 ```
 
