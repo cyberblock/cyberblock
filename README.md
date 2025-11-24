@@ -17,29 +17,11 @@
 ```yaml
 nombre: Lázaro Pérez
 rol: Software Developer Engineer
-empresa: Netex Learning
 experiencia: 5+ años
 enfoque: ["Backend Development", "Legacy Systems", "API Integration", "DevOps"]
 ```
 
-Desarrollador de Software especializado en **gestión de proyectos**, **desarrollo web full-stack**, **e-commerce**, y **mantenimiento de sistemas legacy**. Experiencia comprobada en coordinación interdepartamental y optimización de procesos.
-
----
-
-## 🚀 Experiencia Profesional
-
-### 💼 Software Developer Engineer @ Netex Learning
-**Sep 2023 - Actualidad**
-- 🔧 Coordinación interdepartamental para mejoras en workspace (ERP)
-- ⚡ Mantenimiento, mejora y optimización de sistema legacy
-- 🔄 Migración exitosa de Zend Framework a Laminas
-- 🐳 Implementación de Docker para modernización de ERP
-
-### 💼 Desarrollador Full-Stack @ IpGlobal
-**Jun 2022 - Sep 2023**
-- 🛒 Desarrollo de E-commerce para productos digitales y Food Delivery
-- 🔌 Integración de APIs: Microsoft Teams, Vonage (WhatsApp), Namecheap (CRM)
-- 📊 Gestión ágil de proyectos con Jira y GitLab
+Desarrollador de Software especializado en **gestión de proyectos**, **desarrollo web full-stack**, **e-commerce**, y **mantenimiento de sistemas legacy**.
 
 ---
 
@@ -76,21 +58,28 @@ Desarrollador de Software especializado en **gestión de proyectos**, **desarrol
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyberblock&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyberblock&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberblock&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberblock&theme=tokyonight" alt="GitHub Streak" />
-</div>
+</div> -->
 
 ---
 
 ## 🏆 Proyectos Destacados
 
-### 🔥 E-commerce & Food Delivery
-- Plataforma completa con integración de pagos y gestión de pedidos
+
+### 🔥 Food Delivery Platform (Multi-vendor Marketplace)
+- Plataforma de delivery on-demand con gestión de múltiples restaurantes
+- Sistema de pedidos en tiempo real con integración de pagos
+- Panel de administración para restaurantes y repartidores
 - **Stack:** Spring Boot, Angular, Laravel, Vue.js, MySQL, Docker
+- **Funcionalidades:** Tracking GPS, notificaciones push, gestión de inventario
+
 
 ### 🛠️ Migración Legacy a Laminas
 - Modernización de ERP empresarial de Zend a Laminas
