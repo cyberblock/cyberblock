@@ -80,11 +80,6 @@ Desarrollador de Software especializado en **gestión de proyectos**, **desarrol
 - **Stack:** Spring Boot, Angular, Laravel, Vue.js, MySQL, Docker
 - **Funcionalidades:** Tracking GPS, notificaciones push, gestión de inventario
 
-
-### 🛠️ Migración Legacy a Laminas
-- Modernización de ERP empresarial de Zend a Laminas
-- **Stack:** Laminas, AngularJS, Docker, MySQL
-
 ### 🤖 Web Crawler en Python
 - Extracción automatizada de datos web
 - **Stack:** Python, BeautifulSoup, Selenium
